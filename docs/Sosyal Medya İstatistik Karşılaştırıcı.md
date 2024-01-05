@@ -1,0 +1,1 @@
+Basit bir arayüzle birden fazla sosyal medya hesabının temel istatistiklerini karşılaştırır. (sadece istatistik sunma daha mantıklı gibi)

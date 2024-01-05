@@ -1,0 +1,2 @@
+Bu dosyada planlama yapılacaktır.
+

@@ -1,0 +1,1 @@
+Resimleri farklı sosyal medya platformlarının gereksinimlerine göre otomatik olarak yeniden boyutlandırır.

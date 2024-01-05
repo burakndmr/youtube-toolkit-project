@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"48f4e7176bf99494","type":"file","file":"Home Page.md","x":-320,"y":-600,"width":340,"height":80},
+		{"id":"b32865541e41aa3e","type":"file","file":"Plan.md","x":-980,"y":-280,"width":400,"height":400,"color":"6"},
+		{"id":"946cc81730f18083","type":"file","file":"Fikir Havuzu.md","x":-240,"y":-260,"width":400,"height":400,"color":"4"},
+		{"id":"3dad989a854dc6b5","type":"file","file":"ornek-projeler.md","x":500,"y":-260,"width":400,"height":400,"color":"3"},
+		{"id":"24fc5c29d48f7e21","type":"text","text":"ÖRNEK PROJELER","x":2140,"y":-680,"width":250,"height":60,"color":"4"},
+		{"id":"81bea3e2bbcf4d59","type":"text","text":"in progress","x":2540,"y":-449,"width":250,"height":60,"color":"3"},
+		{"id":"495347268ec8f633","type":"text","text":"DONE","x":2900,"y":-449,"width":250,"height":60,"color":"4"},
+		{"id":"f5d4a6af878c001a","type":"text","text":"CANCELLED","x":3260,"y":-449,"width":250,"height":60,"color":"5"},
+		{"id":"db1e0f814d70d13b","x":2215,"y":-449,"width":250,"height":60,"color":"1","type":"text","text":"TODO"}
+	],
+	"edges":[
+		{"id":"fbf107151a4fc1d3","fromNode":"48f4e7176bf99494","fromSide":"bottom","toNode":"b32865541e41aa3e","toSide":"top"},
+		{"id":"52b317eb8d499ba2","fromNode":"48f4e7176bf99494","fromSide":"bottom","toNode":"946cc81730f18083","toSide":"top"},
+		{"id":"a6bc6f2541e96e4f","fromNode":"48f4e7176bf99494","fromSide":"bottom","toNode":"3dad989a854dc6b5","toSide":"top"}
+	]
+}
