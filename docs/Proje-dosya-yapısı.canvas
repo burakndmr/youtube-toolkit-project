@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"5faf9fe7da98668e","x":-200,"y":-280,"width":260,"height":80,"color":"5","type":"text","text":"APP STRUCTURE"},
+		{"id":"2d7b336e05c16c13","x":-1160,"y":-140,"width":250,"height":60,"color":"4","type":"text","text":"NAVBAR"},
+		{"id":"1b04279a25395a4a","x":-2840,"y":-110,"width":311,"height":60,"color":"3","type":"text","text":"thumbnail previewer"},
+		{"id":"6edf20cab2601533","x":-2240,"y":0,"width":306,"height":60,"color":"3","type":"text","text":"fotoğraf eleştri sayfası"},
+		{"id":"83642b6f9877ec1b","x":-1740,"y":120,"width":308,"height":60,"color":"3","type":"text","text":"Basit bir dashboard"},
+		{"id":"8c26928109e5fe62","x":-1700,"y":360,"width":308,"height":60,"color":"2","type":"text","text":"Hedef belirleme vs vs."}
+	],
+	"edges":[
+		{"id":"7c5c31f6d4d7dbfe","fromNode":"5faf9fe7da98668e","fromSide":"bottom","toNode":"2d7b336e05c16c13","toSide":"top"},
+		{"id":"718d7d6b2869dbaa","fromNode":"2d7b336e05c16c13","fromSide":"left","toNode":"1b04279a25395a4a","toSide":"right"},
+		{"id":"2e3a5ee4becebcc7","fromNode":"2d7b336e05c16c13","fromSide":"left","toNode":"6edf20cab2601533","toSide":"right"},
+		{"id":"34443ff0611071e3","fromNode":"2d7b336e05c16c13","fromSide":"left","toNode":"83642b6f9877ec1b","toSide":"right"},
+		{"id":"23693b7d688ac1f1","fromNode":"83642b6f9877ec1b","fromSide":"bottom","toNode":"8c26928109e5fe62","toSide":"top"}
+	]
+}
