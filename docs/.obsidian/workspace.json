@@ -11,14 +11,11 @@
             "id": "db7ece1828891785",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Proje-dosya-yapısı.canvas",
-                "viewState": {
-                  "x": -1720.928829915561,
-                  "y": -74.30036188178534,
-                  "zoom": -0.9441124171564814
-                }
+                "file": "Fikir Havuzu.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proje-dosya-yapısı.canvas",
+                "file": "Fikir Havuzu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proje-dosya-yapısı.canvas",
+                "file": "Fikir Havuzu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proje-dosya-yapısı.canvas"
+                "file": "Fikir Havuzu.md"
               }
             }
           }
@@ -151,11 +148,13 @@
   },
   "active": "db7ece1828891785",
   "lastOpenFiles": [
+    "Pasted image 20240110001239.png",
+    "ornek-projeler.md",
+    "Proje-dosya-yapısı.canvas",
     "Plan.md",
     "Pasted image 20240104013601.png",
     "Pasted image 20240103234154.png",
     "Pasted image 20240103234107.png",
-    "ornek-projeler.md",
     "Home Page.md",
     "Fikir Havuzu.md",
     "Soru-Cevap.md",

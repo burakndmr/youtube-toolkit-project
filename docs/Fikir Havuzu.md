@@ -15,3 +15,7 @@
 ![[Pasted image 20240103234107.png]]![[Pasted image 20240103234154.png]]
 
 - Sosyal medyalar için hedef koyma
+![[Pasted image 20240110001239.png]]
+
+LANDING PAGE => https://dribbble.com/shots/23324196-CodeHUB-Development-Tools-Landing-Page
+
