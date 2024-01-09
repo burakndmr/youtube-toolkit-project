@@ -4,107 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "6a35230d50503f72",
+        "id": "9f5f8d9f01d2b156",
         "type": "tabs",
-        "dimension": 44.45114595898673,
         "children": [
           {
-            "id": "ae2425d5e29546d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Page.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "312ca2ae0be99c00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Soru-Cevap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b8ff9d9912d10bd",
+            "id": "db7ece1828891785",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "proje-iskeleti.canvas",
+                "file": "Proje-dosya-yapısı.canvas",
                 "viewState": {
-                  "x": 1265,
-                  "y": -270,
-                  "zoom": -3.8648617902421005
+                  "x": -1720.928829915561,
+                  "y": -74.30036188178534,
+                  "zoom": -0.9441124171564814
                 }
               }
             }
-          },
-          {
-            "id": "c52fe9cb282bc52f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Page.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "d6a44b2fe400ac60",
-        "type": "tabs",
-        "dimension": 55.54885404101327,
-        "children": [
-          {
-            "id": "aa2f2c50daaab00a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d38b57beeb434de6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fikir Havuzu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b42e9678709a8621",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ornek-projeler.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proje-iskeleti.canvas",
+                "file": "Proje-dosya-yapısı.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "proje-iskeleti.canvas",
+                "file": "Proje-dosya-yapısı.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "proje-iskeleti.canvas"
+                "file": "Proje-dosya-yapısı.canvas"
               }
             }
           }
@@ -231,14 +149,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b8ff9d9912d10bd",
+  "active": "db7ece1828891785",
   "lastOpenFiles": [
-    "UYGULAMANIN TEMEL ÖZELLİKLERİ.md",
-    "Sosyal Medya Boyutlandırıcı.md",
-    "Sosyal Medya İstatistik Karşılaştırıcı.md",
-    "Screenshots-for-ideas.md",
-    "Soru-Cevap.md",
-    "proje-iskeleti.canvas",
     "Plan.md",
     "Pasted image 20240104013601.png",
     "Pasted image 20240103234154.png",
@@ -246,6 +158,12 @@
     "ornek-projeler.md",
     "Home Page.md",
     "Fikir Havuzu.md",
+    "Soru-Cevap.md",
+    "proje-iskeleti.canvas",
+    "UYGULAMANIN TEMEL ÖZELLİKLERİ.md",
+    "Sosyal Medya Boyutlandırıcı.md",
+    "Sosyal Medya İstatistik Karşılaştırıcı.md",
+    "Screenshots-for-ideas.md",
     "planlamasını.md"
   ]
 }
