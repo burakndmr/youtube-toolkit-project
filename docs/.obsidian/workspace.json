@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fikir Havuzu.md",
+                "file": "ornek-projeler.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "630d37a3923a10c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TASARIM MUHABBETLERİ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 200
   },
   "right": {
     "id": "49e5715460f7c76f",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fikir Havuzu.md",
+                "file": "TASARIM MUHABBETLERİ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fikir Havuzu.md",
+                "file": "TASARIM MUHABBETLERİ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fikir Havuzu.md"
+                "file": "TASARIM MUHABBETLERİ.md"
               }
             }
           }
@@ -146,23 +159,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db7ece1828891785",
+  "active": "630d37a3923a10c2",
   "lastOpenFiles": [
-    "Pasted image 20240110001239.png",
+    "Pasted image 20240111002440.png",
+    "Pasted image 20240111002427.png",
+    "Pasted image 20240111002415.png",
+    "Pasted image 20240111002348.png",
+    "Pasted image 20240111002331.png",
+    "Pasted image 20240111001654.png",
+    "Pasted image 20240110234518.png",
     "ornek-projeler.md",
-    "Proje-dosya-yapısı.canvas",
-    "Plan.md",
-    "Pasted image 20240104013601.png",
-    "Pasted image 20240103234154.png",
+    "TASARIM MUHABBETLERİ.md",
     "Pasted image 20240103234107.png",
-    "Home Page.md",
-    "Fikir Havuzu.md",
-    "Soru-Cevap.md",
+    "Pasted image 20240104013601.png",
+    "Pasted image 20240110001239.png",
+    "Plan.md",
+    "Proje-dosya-yapısı.canvas",
     "proje-iskeleti.canvas",
-    "UYGULAMANIN TEMEL ÖZELLİKLERİ.md",
+    "Screenshots-for-ideas.md",
     "Sosyal Medya Boyutlandırıcı.md",
     "Sosyal Medya İstatistik Karşılaştırıcı.md",
-    "Screenshots-for-ideas.md",
+    "UYGULAMANIN TEMEL ÖZELLİKLERİ.md",
+    "Soru-Cevap.md",
+    "Fikir Havuzu.md",
+    "Home Page.md",
+    "Pasted image 20240103234154.png",
     "planlamasını.md"
   ]
 }
