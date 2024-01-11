@@ -3,7 +3,7 @@ import "./globals.css";
 import Link from "next/link";
 
 import { Providers } from "./providers";
-import { Sidebar } from "./_components/sidebar/Sidebar";
+import { Sidebar } from "../components/sidebar/Sidebar";
 
 export const metadata: Metadata = {
   title: "Create Next App",
