@@ -18,16 +18,8 @@ const config: Config = {
   darkMode: "class",
   daisyui: {
     themes: [
-      "light",
-      "dark",
-      "cupcake",
-      "bumblebee",
-      "emerald",
-      "corporate",
-      "cyberpunk",
-      "halloween",
       {
-        mytheme: {
+        myLightTheme: {
           primary: "#FF7828",
           secondary: "#285A55",
           accent: "#74CCCC",
@@ -39,6 +31,14 @@ const config: Config = {
           error: "#DA2121",
         },
       },
+      "light",
+      "dark",
+      "cupcake",
+      "bumblebee",
+      "emerald",
+      "corporate",
+      "cyberpunk",
+      "halloween",
     ],
   },
   plugins: [require("daisyui")],
